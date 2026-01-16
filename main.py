@@ -7,3 +7,8 @@ def menu():
     print("test")
 
 menu()
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))
