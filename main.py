@@ -3,3 +3,7 @@ def main():
     
 main()
 
+def menu():
+    print("test")
+
+menu()
